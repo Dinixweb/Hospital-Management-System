@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/User 5/Documents/Software Egineering/Java/B2_05_2_2021_DB/sqlite-jdbc4-3.8.2-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User 5/Downloads/jxdatepicker-support-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User 5/Downloads/swingx-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User 5/Java-Core/Hospital Management System/jfreechart-1.5.2"/>
+	<classpathentry kind="lib" path="C:/Users/User 5/Desktop/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

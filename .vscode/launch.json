@@ -1,0 +1,147 @@
+java{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dashboard",
+            "request": "launch",
+            "mainClass": "com.Admin.Dashboard",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch Login",
+            "request": "launch",
+            "mainClass": "com.Admin.Login",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch Users",
+            "request": "launch",
+            "mainClass": "com.Admin.Users",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch newDump",
+            "request": "launch",
+            "mainClass": "com.Admin.newDump",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch PaymentProcess",
+            "request": "launch",
+            "mainClass": "com.account.PaymentProcess",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch addNewPayment",
+            "request": "launch",
+            "mainClass": "com.account.addNewPayment",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoctorReport",
+            "request": "launch",
+            "mainClass": "com.doctor.DoctorReport",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoctorWindow",
+            "request": "launch",
+            "mainClass": "com.doctor.DoctorWindow",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prescription",
+            "request": "launch",
+            "mainClass": "com.doctor.Prescription",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch ViewDetails",
+            "request": "launch",
+            "mainClass": "com.doctor.ViewDetails",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch ViewReport",
+            "request": "launch",
+            "mainClass": "com.doctor.ViewReport",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddStock",
+            "request": "launch",
+            "mainClass": "com.pharmacist.AddStock",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch PharmacyDash",
+            "request": "launch",
+            "mainClass": "com.pharmacist.PharmacyDash",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sales",
+            "request": "launch",
+            "mainClass": "com.pharmacist.Sales",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookPatient",
+            "request": "launch",
+            "mainClass": "com.records.BookPatient",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patientadd",
+            "request": "launch",
+            "mainClass": "com.records.Patientadd",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch Records",
+            "request": "launch",
+            "mainClass": "com.records.Records",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch ViewPatient",
+            "request": "launch",
+            "mainClass": "com.records.ViewPatient",
+            "projectName": "Hospital Management System"
+        },
+        {
+            "type": "java",
+            "name": "Launch date",
+            "request": "launch",
+            "mainClass": "com.records.date",
+            "projectName": "Hospital Management System"
+        }
+    ]
+}
